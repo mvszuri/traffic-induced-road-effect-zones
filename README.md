@@ -5,6 +5,7 @@ The analysis makes used of the traffic volume predictions (Annual Average Daily 
 ## Details of the individual files
 #### Kernel_density_function_20250117.py
 This code was used to calculate the REZs with the kernel density function from ArcGIS Pro 2.9.5 (Environmental Systems Research Institute, Redlands, USA).
+
 At the beginning of the code, the following settings need to be specified:
 runName: Choose a unique name for the run of the code
 road_shp: Specify the location of the shapefile containing the traffic volume predictions. These can be downloaded from the ETH research collection: https://doi.org/10.3929/ethz-b-000666313
